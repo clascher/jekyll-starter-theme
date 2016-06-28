@@ -3,9 +3,9 @@ title:  US Constitution
 layout:  default
 ---
 
-[# THE CONSTITUTION OF THE UNITED STATES OF AMERICA, 1787](http://www.gutenberg.org/cache/epub/5/pg5.txt)
+# [THE CONSTITUTION OF THE UNITED STATES OF AMERICA, 1787](http://www.gutenberg.org/cache/epub/5/pg5.txt)
 
-![Picture of the US Constitution](https://en.wikipedia.org/wiki/File:Constitution_of_the_United_States,_page_1.jpg)
+![Picture of the US Constitution](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Constitution_of_the_United_States%2C_page_1.jpg/495px-Constitution_of_the_United_States%2C_page_1.jpg)
 
 We the people of the United States, in Order to form a more perfect Union,
 establish Justice, insure domestic Tranquility, provide for the common defence,
